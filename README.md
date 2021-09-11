@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caowanjing-code
+- 👋 Hi, I’m @caowanjing
 - 👀 I’m interested in cooking and learning new things that I never image before I were done.
 - 🌱 I’m currently learning vue.js and node.js
 - 💞️ I’m looking to collaborate on ...
